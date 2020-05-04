@@ -15,7 +15,7 @@ ________________________________________
 
     $ source env/bin/activate
     
-    $ sudo apt-get install python3.7.4
+    $ sudo apt-get install python3.7
 
   	$ sudo apt-get install python3-pip
 
