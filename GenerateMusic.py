@@ -1,3 +1,6 @@
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3' 
+
 from music21 import converter,instrument,note,chord,stream
 import numpy as np
 import pickle
