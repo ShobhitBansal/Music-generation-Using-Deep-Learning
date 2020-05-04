@@ -1,5 +1,11 @@
 # Music Generation Using Deep Learning 
 
+The Music Generation Model is based on Long short-term memory (LSTM), a recurrent neural network (RNN) architecture, that can efficiently learn via gradient descent.
+
+The model is able to generate good quality instrumental music.
+
+WEBSITE LINK: https://music-generation-using-ml.herokuapp.com/
+
 ## Installation Documentation
 
     $ sudo apt install git
