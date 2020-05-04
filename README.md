@@ -4,7 +4,7 @@ The Music Generation Model is based on Long short-term memory (LSTM), a recurren
 
 The model is able to generate good quality instrumental music.
 
-WEBSITE LINK: https://music-generation-using-ml.herokuapp.com/
+WEBSITE LINK: https://music-generation-using-ml.herokuapp.com
 
 ## Installation Documentation
 
@@ -58,7 +58,7 @@ to launch server execute the following
 	  
 ![](Screenshots/9.png)
     
-go to Google Chrome and type http://127.0.0.1:5000
+go to Google Chrome and open http://127.0.0.1:5000
 
 ![](Screenshots/10.png)
  
