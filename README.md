@@ -3,6 +3,8 @@ ________________________________________
 
 ## Installation Documentation
 
+    $ sudo apt install git
+
     $ git clone https://github.com/ShobhitBansal/Music-generation-Using-Deep-Learning.git
   
     $ cd Music-generation-Using-Deep-Learning
