@@ -23,7 +23,7 @@ ________________________________________
     
     $ cd home/model/
     
-    $ wget https://www.dropbox.com/s/nn9975383dee3i6/piano_model.hdf5?dl=0 -O piano_model.hdf5
+    $ !wget https://www.dropbox.com/s/nn9975383dee3i6/piano_model.hdf5?dl=0 -O piano_model.hdf5
     
 get back to main directory by executing next command 2 times
 
