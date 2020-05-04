@@ -1,5 +1,4 @@
 # Music Generation Using Deep Learning 
-________________________________________
 
 ## Installation Documentation
 
