@@ -14,6 +14,7 @@ def hello():
 def disease():
 	if request.method == 'POST':
 
+		os.remove("./static/output/output.mid")
 		gm.generateMID()
 		output = "Generated Music"
 		return render_template("index.html", result = output)
